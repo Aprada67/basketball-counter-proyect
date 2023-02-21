@@ -38,6 +38,7 @@ body {
 h3 {
     font-family: 'Poppins', sans-serif;
     color: #eee;
+    margin: 0.10em 0 0 0;
     font-weight: 900;
     font-size: 2rem;
     letter-spacing: 3px;
@@ -51,6 +52,7 @@ p {
     font-size: 4rem;
     background-color: #080001;
     color: #F94F6D;
+    margin: 0.10em 0 0 0;
     width: 125px;
     text-align: center;
     padding: 0.1em;
